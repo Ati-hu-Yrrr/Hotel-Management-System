@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|c:\\users\\pmls\\source\\repos\\hotel management system\\hotel management system\\all user control\\uc_customercheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\all user control\\uc_customercheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\all user control\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\all user control\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\all user control\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\all user control\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\all user control\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\all user control\\uc_customercheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\all user control\\uc_customercheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\all user control\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\all user control\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\all user control\\customerdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\all user control\\customerdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\all user control\\customerdetails.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\all user control\\customerdetails.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\all user control\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\all user control\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\hotel management system\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30800325-B212-4715-A896-CA69E4386D6E}|HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM.csproj|solutionrelative:hotel management system\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_CustomerCheckOut.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerCheckOut.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerCheckOut.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerCheckOut.cs",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerCheckOut.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:39:23.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Form1.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\Form1.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Form1.cs",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\Form1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:48:46.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Form1.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\Form1.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Form1.cs [Design]",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:46:31.265Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_AddRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_AddRoom.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_AddRoom.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_AddRoom.cs [Design]",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_AddRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:19:06.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_AddRoom.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_AddRoom.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_AddRoom.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_AddRoom.cs",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_AddRoom.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAhwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:48:04.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Form1.Designer.cs",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\Form1.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAxwAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:33:52.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_CustomerCheckOut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerCheckOut.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerCheckOut.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerCheckOut.cs [Design]",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerCheckOut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:41:05.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "function.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\function.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\function.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\function.cs",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\function.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAApwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:37:21.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Form1.resx",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\Form1.resx",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Form1.resx",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-13T07:18:28.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_CustomerRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerRegistration.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerRegistration.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerRegistration.cs [Design]",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:06:19.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.cs [Design]",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:14:20.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_Employee.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_Employee.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_Employee.cs [Design]",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:27:40.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Dashboard.cs [Design]",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:19:48.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerDetails.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.cs",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAhwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:24:48.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerDetails.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.Designer.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.Designer.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.Designer.cs",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.Designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:11:27.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerDetails.resx",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.resx",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.resx",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.resx",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\All User Control\\CustomerDetails.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-12T14:11:26.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_CustomerRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerRegistration.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerRegistration.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerRegistration.cs",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_CustomerRegistration.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwEYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:32:04.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_Employee.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_Employee.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_Employee.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_Employee.cs",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\All User Control\\UC_Employee.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAvwGUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:59:57.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Dashboard.cs",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\Dashboard.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAcwG0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:34:59.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "HOTEL MANAGEMENT SYSTEM\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\PMLS\\source\\repos\\HOTEL MANAGEMENT SYSTEM\\HOTEL MANAGEMENT SYSTEM\\Dashboard.Designer.cs",
+              "RelativeToolTip": "HOTEL MANAGEMENT SYSTEM\\Dashboard.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:01:47.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
